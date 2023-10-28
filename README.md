@@ -1,6 +1,6 @@
 # valutility
 
-a utility software for valorant use
+a valorant utility software for quality of life improvements
 
 # how to use
 
