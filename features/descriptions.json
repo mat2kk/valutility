@@ -1,0 +1,6 @@
+{
+    "clearjsons": "Clears all sensitive data stored within .json files",
+    "help": "Shows all commands and a short description of each one",
+    "store": "See available shop offers, balance and time remaining to buy the offers",
+    "quit": "Exit the application"
+}
